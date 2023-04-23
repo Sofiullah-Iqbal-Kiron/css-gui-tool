@@ -1,6 +1,5 @@
 import {Slider} from "./Slider.jsx";
 import {useState} from "react";
-import Alert from "bootstrap/js/src/alert.js";
 
 export function ControlPanel() {
     const [shadowColor, setShadowColor] = useState("#000000");

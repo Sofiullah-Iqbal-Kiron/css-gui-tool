@@ -1,0 +1,1 @@
+A css gui tool for busy-lazy frontend developer. Developed with react and vite.
