@@ -1,0 +1,8 @@
+.square {
+    width: 47vh;
+    border-radius: 10px;
+    height: 47vh;
+    background-color: red;
+    margin: 0 auto;
+    top: 50%;
+}
